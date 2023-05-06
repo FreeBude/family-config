@@ -1,0 +1,23 @@
+* text=auto
+name: German Seals Family
+key: GS
+color: grey
+emblem: Star_Shine_03
+info:
+
+  logo: IMG_0383.JPG
+  description: >
+    This is the **German Seals Family**
+    We have three clans: German Seals
+                         German Seals 2
+                         Seals Academy
+  social: 
+    - discord: https://discord.gg/rJ7bSJUf
+    - instagram: https://www.instagram.com/germanseals_cr/
+clans:
+  - name: German Seals
+    tag: YL0PY2R8
+  - name: German Seals 2
+    tag: YQVG8GLL
+  - name: Seals Academy
+    tag: LYLP0RQ9
